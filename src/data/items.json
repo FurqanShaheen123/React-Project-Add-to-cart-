@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Book",
+    "price": 10.99,
+    "imgUrl": "/imgs/book.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Computer",
+    "price": 119,
+    "imgUrl": "/imgs/computer.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Cycle",
+    "price": 1.05,
+    "imgUrl": "/imgs/img1.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Car",
+    "price": 120,
+    "imgUrl": "/imgs/car.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Moter Bike",
+    "price": 140,
+    "imgUrl": "/imgs/img2.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Racing Car",
+    "price": 130,
+    "imgUrl": "/imgs/img3.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Lembergeni",
+    "price": 140,
+    "imgUrl": "/imgs/img4.jpeg"
+  },
+  {
+    "id": 8,
+    "name": "Moter Bike 1800 CC",
+    "price": 9000,
+    "imgUrl": "/imgs/img5.jpg"
+  }
+  
+  ,
+  {
+    "id": 9,
+    "name": "MacBook Pro Laptop",
+    "price": 2000,
+    "imgUrl": "/imgs/maclap.jfif"
+  }
+  ,
+  {
+    "id": 10,
+    "name": "MacBook Pro 14 V.1",
+    "price": 900,
+    "imgUrl": "/imgs/maclap1.jfif"
+  }
+  ,
+  {
+    "id": 11,
+    "name": "MacBook Pro 13 V.1",
+    "price": 1500,
+    "imgUrl": "/imgs/maclap2.jfif"
+  }
+]
